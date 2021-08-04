@@ -1,0 +1,1 @@
+ALTER TABLE "label" ADD COLUMN "unique_column" VARCHAR(60) NOT NULL DEFAULT 'uniqueness'
